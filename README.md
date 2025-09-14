@@ -36,7 +36,7 @@ Excel / CSV Dataset
 
 How to Use.
 
-[**ScreenShort**](https://github.com/Perapoguvijay/bank-churn-analysis-dashboard/commit/aa60b483f7bd1d9d460304e3aef05862f6a3fe9f)
+[**ScreenShort**]([https://github.com/Perapoguvijay/bank-churn-analysis-dashboard/commit/aa60b483f7bd1d9d460304e3aef05862f6a3fe9f](https://github.com/Ajay85200/banking-churn-analysis/blob/main/Screenshot%202025-09-14%20233336.png))
 
 
 ## Conclusion
