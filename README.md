@@ -1,4 +1,3 @@
-# banking-churn-analysis
 ## Bank Churn Analysis Dashboard
 Project Overview:
 This project analyzes customer churn in a bank to identify patterns and factors influencing customer retention. The dashboard is built in Power BI and provides insights into churn rate, demographics, geography-wise trends, and customer behavior. The dataset contains over 10,000 customer records in CSV/Excel format.
@@ -36,7 +35,7 @@ Excel / CSV Dataset
 
 How to Use.
 
-[**ScreenShort**]([https://github.com/Perapoguvijay/bank-churn-analysis-dashboard/commit/aa60b483f7bd1d9d460304e3aef05862f6a3fe9f](https://github.com/Ajay85200/banking-churn-analysis/blob/main/Screenshot%202025-09-14%20233336.png))
+[**ScreenShort**](https://github.com/Ajay85200/banking-churn-analysis/blob/main/Screenshot%202025-09-14%20233336.png)
 
 
 ## Conclusion
